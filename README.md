@@ -36,7 +36,12 @@ Witchcraft APIの重要な柱の一つは、PDCA（Plan-Do-Check-Act）による
 
 <img src="pdca_malkuth_clockwise.png" width="400">
 
-この視点は、テイラー・エルウッド（Taylor Ellwood）の『Magical Experiments: Practical Magic for Consistent Results』から多くを学んでいる。再現可能な魔術、記録と検証、戦略的な設計という考え方は、日本における魔術実践にも強く共有されるべき基盤である。
+この視点は、テイラー・エルウッド（Taylor Ellwood）の『Magical Experiments: Practical Magic for Consistent Results』や、
+ジェイソン・ミラーの「The Strategic Sorcery」コースから多くを学び、実践を通じて形成されたものです。
+特に、魔術の実験結果を記録・共有するという取り組みに参加した経験は、
+「魔術を再現可能な設計として扱う」ための視点を育ててくれました。
+こうした記録と検証、戦略的な儀式設計の考え方は、
+日本における魔術実践においても強く共有されるべき基盤であると考えています。
 
 ---
 
