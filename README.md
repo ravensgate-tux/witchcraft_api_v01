@@ -14,7 +14,7 @@ Open Source Witchcraftの構造的バックボーンとして、本ドキュメ�
 - **Layer 2: Environment Setup** – 結界、方位、配置など
 - **Layer 1: Physical Layer** – キャンドル、紙、タロットなどの物理要素
 
-💡 補足：本ドキュメントで示された「Witchcraft API」の7レイヤー構造は、
+💡 補足：ここで示した「Witchcraft API」の7レイヤー構造は、
 IT分野におけるOSI参照モデル（Open Systems Interconnection model）の階層構造を参考に再構成されたものです。
 
 ---
