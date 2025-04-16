@@ -32,7 +32,7 @@ IT分野におけるOSI参照モデル（Open Systems Interconnection model）�
 
 ## 🔁 実践とPDCAサイクル
 
-Witchcraft APIの重要な柱の一つは、PDCA（Plan-Do-Check-Act）による反復実践である。多くの実践者が儀式を行うことに満足してしまいがちだが、**魔術は意図を送り出し、それがどのように現実に作用するかを観察・検証し、改善することで洗練される**。
+Witchcraft APIの重要な柱の一つは、PDCA（Plan-Do-Check-Act）による反復実践である。多くの実践者が儀式を行うことに自体に満足してしまいがちだが、**魔術は意図を送り出し、それがどのように現実に作用するかを観察・検証し、改善することで洗練される**。
 
 <img src="pdca_malkuth_clockwise.png" width="400">
 
