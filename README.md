@@ -22,7 +22,7 @@ Open Source Witchcraftの構造的バックボーンとして、本ドキュメ�
 - **DMZ** → 儀式空間、神聖なゾーン儀式空間、神聖なゾーン、T.A.Z.（ハキム・ベイの一時的自立ゾーン）
 - **VPN / トンネル** → 夢、アストラル神殿、瞑想経路
 - **Encryption / Decryption** → シジルの作成と解読
-- **On-Prem / Cloud** → 物理神殿／アストラル神殿
+- **On-Premises / Cloud** → 物理神殿／アストラル神殿
 - **Log / Monitoring** → 儀式記録、夢日記、ワークブック
 
 ---
