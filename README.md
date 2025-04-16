@@ -32,7 +32,7 @@ Open Source Witchcraftの構造的バックボーンとして、本ドキュメ�
 
 Witchcraft APIの重要な柱の一つは、PDCA（Plan-Do-Check-Act）による反復実践である。多くの実践者が儀式を行うことに満足してしまいがちだが、**魔術は意図を送り出し、それがどのように現実に作用するかを観察・検証し、改善することで洗練される**。
 
-<img src="pdca_malkuth_traditional_colors.png" width="800">
+<img src="pdca_malkuth_traditional_colors.png" width="400">
 
 この視点は、テイラー・エルウッド（Taylor Ellwood）の『Magical Experiments: Practical Magic for Consistent Results』から多くを学んでいる。再現可能な魔術、記録と検証、戦略的な設計という考え方は、日本における魔術実践にも強く共有されるべき基盤である。
 
