@@ -23,7 +23,7 @@ Open Source Witchcraftの構造的バックボーンとして、本ドキュメ�
 - **VPN / トンネル** → 夢、アストラル神殿、瞑想経路
 - **Encryption / Decryption** → シジルの作成と解読
 - **On-Premises / Cloud** → 物理神殿／アストラル神殿
-- **Log / Monitoring** → 儀式記録、夢日記、ワークブック
+- **Log / Monitoring** →影の書（book of shadows）、儀式記録、夢日記、ワークブック
 
 ---
 
