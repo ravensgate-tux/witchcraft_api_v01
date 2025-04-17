@@ -4,29 +4,32 @@ Open Source Witchcraftの構造的バックボーンとして、本ドキュメ�
 
 ---
 
-## 🔧 7階層構造の概要
+# 🔧 7階層構造の概要
 
-- **Layer 7: Application** – 個別儀式・願望（例：金運儀式、転職など）
-- **Layer 6: Ritual Protocol** – 儀式の構造と順序
-- **Layer 5: Symbolic Framework** – 象徴の選定・意味付け
-- **Layer 4: Interface Objects** – 道具やカード、ワンドなど
-- **Layer 3: Transmission Layer** – 言葉、夢、バイブレーション
-- **Layer 2: Environment Setup** – 結界、方位、配置など
-- **Layer 1: Physical Layer** – キャンドル、紙、タロットなどの物理要素
+| レイヤー | 名称                     | 概要                                       |
+|--------|------------------------|------------------------------------------|
+| 7      | Application            | 個別儀式・願望（例：金運儀式、転職など）           |
+| 6      | Ritual Protocol        | 儀式の構造と順序                                |
+| 5      | Symbolic Framework     | 象徴の選定・意味付け                             |
+| 4      | Interface Objects      | 道具やカード、ワンドなど                           |
+| 3      | Transmission Layer     | 言葉、夢、バイブレーションなど                     |
+| 2      | Environment Setup      | 結界、方位、配置、空間の設計                       |
+| 1      | Physical Layer         | キャンドル、紙、タロットカードなどの物理要素             |
 
-💡 補足：ここで示した「Witchcraft API」の7レイヤー構造は、
-IT分野におけるOSI参照モデル（Open Systems Interconnection model）の階層構造を参考に再構成されたものです。
+💡補足：ここで示した「Witchcraft API」の7レイヤー構造は、IT分野におけるOSI参照モデル（Open Systems Interconnection model）の階層構造を参考に再構成されたものです。
 
 ---
 
-## 🔄 アナロジー：ITと魔術の対応表（一部）
+# 🔁 アナロジー：ITと魔術の対応表（一部）
 
-- **Firewall** → 魔法円や五芒星
-- **DMZ** → 儀式空間、神聖なゾーン儀式空間、神聖なゾーン、T.A.Z.（ハキム・ベイの一時的自立ゾーン）
-- **VPN / トンネル** → 夢、アストラル神殿、瞑想経路
-- **Encryption / Decryption** → シジルの作成と解読
-- **On-Premises / Cloud** → 物理神殿／アストラル神殿
-- **Log / Monitoring** → 影の書（book of shadows）、儀式記録、夢日記、ワークブック
+| IT用語          | 魔術的な対応概念                                   |
+|----------------|----------------------------------------------|
+| Firewall       | 魔法円や五芒星                                     |
+| DMZ            | 儀式空間、神聖なゾーン、T.A.Z.（一時的自立ゾーン）         |
+| VPN / トンネル  | 夢、アストラル体験、瞑想経路                            |
+| Encryption / Decryption | シジルの作成と解読、神殿の象徴構造                    |
+| On-Premises / Cloud | 物理神殿 / アストラル神殿                             |
+| Log / Monitoring | 影の書（book of shadows）、儀式記録、夢日記、ワークブック       |
 
 ---
 
