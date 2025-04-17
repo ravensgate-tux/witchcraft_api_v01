@@ -87,7 +87,7 @@ Ravensgateでは魔法を**現実をより良くするための確率的な影�
 
 > **"Make a plan that could work without magick, then use magick to make that plan work better."**  
 > （魔術がなくても成立する計画を立て、それをより良く機能させるために魔術を使え）
-
+>
 > **"Magick is an influence on probability and minds."**  
 > （魔術とは、確率と人の心に影響を与えるものである）
 
