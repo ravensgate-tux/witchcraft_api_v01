@@ -101,6 +101,8 @@ Ravensgateでは魔法を**現実をより良くするための確率的な影�
 >
 > **"Magick is an influence on probability and minds."**  
 > （魔術とは、確率と人の心に影響を与えるものである）
+>
+>つまり「バッドラックをグッドラックにする技術」とも言える
 
 ---
 
