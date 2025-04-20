@@ -116,5 +116,24 @@ Ravensgateでは魔法を**現実をより良くするための確率的な影�
 「Let it burn. 💣🔥Detonosis.」
 
 ---
+## 🐌 TUXとは？
+
+このプロジェクトにおける **TUX** は、  
+**Theurgic User eXperience（神性との接触としてのユーザー体験）** を意味する、Open Source Witchcraft のマスコットです。
+
+TUXはカタツムリをモチーフにしています。  
+殻を背負い、ゆっくりと、しかし確実に進みながら、  
+その触角で世界の魔術的な兆候を感じ取り、神性との接続を導きます。
+
+TUXは私たちにこう語りかけます：
+
+> 「魔術は急いで動くことではなく、  
+>  静けさと感性、そして選びきる意志から始まる。」
+
+🐚 GitHubのアカウント名 `ravensgate-tux` は、このちいさな魔術的旅人へのオマージュです。
+
+<img src="tux.png" width="200">
+
+---
 
 📝 本ドキュメントおよび構成図はCreative Commons Attribution 4.0 International（CC BY 4.0）ライセンスのもとで公開される予定です。
