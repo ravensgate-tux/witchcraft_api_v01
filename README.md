@@ -140,4 +140,5 @@ TUXは私たちにこう語りかけます：
 
 ---
 
-📝 本ドキュメントおよび構成図はCreative Commons Attribution 4.0 International（CC BY 4.0）ライセンスのもとで公開される予定です。
+© 2025 知られざる呪術師（Le Sorcier Inconnu）  
+本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
