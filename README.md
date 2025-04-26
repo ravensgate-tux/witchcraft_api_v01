@@ -14,7 +14,7 @@ Open Source Witchcraftの構造的バックボーンとして、本ドキュメ�
 | 4 | Interface Objects | 道具やカード、ワンドなど | ー |
 | 3 | Transmission Layer | 言葉、夢、バイブレーションなど | ー |
 | 2 | Environment Setup | 結界、方位、配置、空間の設計 | ー |
-| 1 | Physical Layer | キャンドル、紙、タロットカードなどの物理要素 | <img src="ganesha_1.jpg" width="100">
+| 1 | Physical Layer | キャンドル、紙、タロットカードなどの物理要素 | <img src="ganesha_2.pnf" width="200">
  |
 
 💡補足：ここで示した「Witchcraft API」の7レイヤー構造は、IT分野におけるOSI参照モデル（Open Systems Interconnection model）の階層構造を参考に再構成されたものです。
