@@ -1,4 +1,4 @@
-# 🧠 Witchcraft API v0.1（暫定版）
+# 🧠 Witchcraft API v0.1
 
 Open Source Witchcraftの構造的バックボーンとして、本ドキュメントでは「Witchcraft API」と呼ばれる7階層モデルを提示する。このモデルは、現代魔術の実践を柔軟かつ反復可能なシステムとして捉えるためのものである。
 
@@ -6,15 +6,15 @@ Open Source Witchcraftの構造的バックボーンとして、本ドキュメ�
 
 # 🔧 7階層構造の概要
 
-| レイヤー | 名称                     | 概要                                       |
-|--------|------------------------|------------------------------------------|
-| 7      | Application            | 個別儀式・願望（例：金運儀式、転職など）           |
-| 6      | Ritual Protocol        | 儀式の構造と順序                                |
-| 5      | Symbolic Framework     | 象徴の選定・意味付け                             |
-| 4      | Interface Objects      | 道具やカード、ワンドなど                           |
-| 3      | Transmission Layer     | 言葉、夢、バイブレーションなど                     |
-| 2      | Environment Setup      | 結界、方位、配置、空間の設計                       |
-| 1      | Physical Layer         | キャンドル、紙、タロットカードなどの物理要素             |
+| レイヤー | 名称 | 概要 | 実装例・リンク |
+|---------|------|------|-----------------|
+| 7 | Application | 個別儀式・願望（例：金運儀式、転職など） | ー |
+| 6 | Ritual Protocol | 儀式の構造と順序 | [POP MAGIC](https://github.com/ravensgate-tux/pop_magic_annotation)（Grant Morrisonによる儀式的実践） |
+| 5 | Symbolic Framework | 象徴の選定・意味付け | ー |
+| 4 | Interface Objects | 道具やカード、ワンドなど | ー |
+| 3 | Transmission Layer | 言葉、夢、バイブレーションなど | ー |
+| 2 | Environment Setup | 結界、方位、配置、空間の設計 | ー |
+| 1 | Physical Layer | キャンドル、紙、タロットカードなどの物理要素 | ー |
 
 💡補足：ここで示した「Witchcraft API」の7レイヤー構造は、IT分野におけるOSI参照モデル（Open Systems Interconnection model）の階層構造を参考に再構成されたものです。
 
