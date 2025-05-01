@@ -1,6 +1,12 @@
-# 🧠 Witchcraft API v0.1
+![oreally-media](https://github.com/user-attachments/assets/cad1e055-44e2-4278-9799-3b50725dbc7f)# 🧠 Witchcraft API v0.1
 
 Open Source Witchcraftの構造的バックボーンとして、本ドキュメントでは「Witchcraft API」と呼ばれる7階層モデルを提示する。このモデルは、現代魔術の実践を柔軟かつ反復可能なシステムとして捉えるためのものである。
+
+---
+
+<div align="center">
+ <img src="oreally-media.png" width="500">
+</div>
 
 ---
 
