@@ -1,7 +1,7 @@
 # 🧠 Witchcraft API v0.1
 
 <div align="center">
- <img src="oreally-media.png" width="500">
+ <img src="oreally-media.png" width="400">
 </div>
 
  <br>
