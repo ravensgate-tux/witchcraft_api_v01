@@ -1,7 +1,11 @@
-🧠 Witchcraft API v0.1
+# 🧠 Witchcraft API v0.1
 
+<div align="center">
+ 
 ### Open Source Witchcraftの構造的バックボーンとして、本ドキュメントでは「Witchcraft API」と呼ばれる7階層モデルを提示する。
 ### このモデルは、現代魔術の実践を柔軟かつ反復可能なシステムとして捉えるためのものである。
+
+</div>
 
 ---
 
