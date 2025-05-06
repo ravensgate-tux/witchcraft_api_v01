@@ -136,7 +136,7 @@ KIA = OSIS（観察）する視線／反省／無意識的観察者<br>
 例：プロセスを俯瞰する意識、見る存在、再帰的なメタ自己<br>
 DETONOSIS = ZOSによる行為と、KIAによる観察が交差し、現実の再構成を起こす動作様式<br>
 
-<div align="center">
+<div align="left">
  <img src="zoskia.png" width="400">
 </div>
 
