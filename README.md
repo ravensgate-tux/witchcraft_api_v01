@@ -128,6 +128,17 @@ Ravensgateでは魔法を**現実をより良くするための確率的な影�
 つまり「忘却」とは記憶を抑圧するのではなく、魔術的プロセスに手を加えないという作動後のロック状態（Lock After Ignition）を意味します。
 Ravensgateではこの考えを「Forget as Lock（忘却＝作動中フラグ）」として採用しています。
 
+**「DETONOSIS におけるZOS/KIAの応用」**
+ZOS = DETONATE（起動）する動作／作業／創造行為
+例：シジルを書く、図像を組む、コードを書く、動作を始める手
+KIA = OSIS（観察）する視線／反省／無意識的観察者
+例：プロセスを俯瞰する意識、見る存在、再帰的なメタ自己
+DETONOSIS = ZOSによる行為と、KIAによる観察が交差し、現実の再構成を起こす動作様式
+
+<div align="center">
+ <img src="zoskia.png" width="400">
+</div>
+
 ---
 ## 🐌 TUXとは？
 
