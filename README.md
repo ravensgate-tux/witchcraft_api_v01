@@ -21,7 +21,7 @@ Open Source Witchcraftの構造的バックボーンとして本ドキュメン�
 | 6 | Ritual Protocol | 儀式の構造と順序 | [POP MAGIC](https://github.com/ravensgate-tux/pop_magic_annotation/blob/main/README.md)（Grant Morrisonによる儀式的実践） |
 | 5 | Symbolic Framework | 象徴の選定・意味付け | ー |
 | 4 | Interface Objects | 道具やカード、ワンドなど |  <img src="Zos_Kia_Pic.jpeg" width="300"> |
-| 3 | Transmission Layer | 言葉、夢、バイブレーションなど | [シャーマニズム技法（Phil Hine）](https://github.com/ravensgate-tux/hine_modern_shamanism/blob/main/README.md)（Phil Hineによる現代シャーマニズムの技法） |
+| 3 | Transmission Layer | 言葉、夢、バイブレーションなど | [シャーマニズム技法（Phil Hine）](https://github.com/ravensgate-tux/hine_modern_shamanism/blob/main/README.md)（Phil Hineによる現代シャーマニズムの技法）<br> [死の姿勢(オースチン・オスマン・スペア)](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/05_death_posture.md)|
 | 2 | Environment Setup | 結界、方位、配置、空間の設計 | ー |
 | 1 | Physical Layer | キャンドル、紙、タロットカードなどの物理要素 | <img src="ganesha_2.png" width="300"> |
 
