@@ -1,4 +1,4 @@
-# 🧠 Witchcraft API v0.1
+# 🧠 Witchcraft API v0.1(ベータテスト中)
 
 <div align="center">
  <img src="oreally-media.png" width="300">
