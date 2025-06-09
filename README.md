@@ -20,7 +20,7 @@ Open Source Witchcraftの構造的バックボーンとして本ドキュメン�
 | 7 | Application | 個別儀式・願望（例：金運儀式、転職など） | [Le Sorcier Inconnuの書架](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md) |
 | 6 | Ritual Protocol | 儀式の構造と順序 | [POP MAGIC](https://github.com/ravensgate-tux/pop_magic_annotation/blob/main/README.md)（Grant Morrisonによる儀式的実践）<br>[グラント・モリスン『BATMAN R.I.P.』](https://github.com/ravensgate-tux/batman_rip_zine/blob/main/README.md)（「深淵」と「降下」）<br>[フィル・ハイン『Evocation』](https://github.com/ravensgate-tux/hine_evocation/blob/main/README.md)（喚起魔術の技法）|
 | 5 | Symbolic Framework | 象徴の選定・意味付け | [バットマンーアルフレッド・モデル（BAM倫理システム](https://github.com/ravensgate-tux/witchcraft_api_v01/blob/main/bam-system.md) <br>- ”気になることがひとつございます” |
-| 4 | Interface Objects | 道具やカード、ワンドなど |  <img src="Zos_Kia_Pic.jpeg" width="300"> <br> <img src="Papa-Legba.jpeg" width="200"> |
+| 4 | Interface Objects | 道具やカード、ワンドなど |  <img src="Papa-Legba.jpeg" width="100"> |
 | 3 | Transmission Layer | 言葉、夢、バイブレーションなど | [シャーマニズム技法（Phil Hine）](https://github.com/ravensgate-tux/hine_modern_shamanism/blob/main/README.md)<br>（Phil Hineによる現代シャーマニズムの技法）<br> [死の姿勢(オースチン・オスマン・スペア)](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/05_death_posture.md)<br>（『快楽の書』より）<br>  <img src="wheel-of-the-year.jpeg" width="200"> <br> Chaos Craft による Wheel of the year (8色の割り当て)下記参照|
 | 2 | Environment Setup | 結界、方位、配置、空間の設計 | ー |
 | 1 | Physical Layer | キャンドル、紙、タロットカードなどの物理要素 | <img src="ganesha_2.png" width="300"> <br>[ 『タロット・タリスマン』（国書刊行会） ](https://www.kokusho.co.jp/np/isbn/9784336038616/?srsltid=AfmBOopF_G-l-0NxJbchAvuaad1fjVGEf8meJ-Vz9PWZTxaKX2MSpSJx)（タロット天使の召喚技法）|
@@ -137,22 +137,6 @@ Ravensgateでは魔法を**現実をより良くするための確率的な影�
 📌 **補足：スペアやハインの「忘れろ」という教義は、この「導火線に火をつけたらもう手を出すな」という意味で解釈できます。**
 つまり「忘却」とは記憶を抑圧するのではなく、魔術的プロセスに手を加えないという作動後のロック状態（Lock After Ignition）を意味します。
 Ravensgateではこの考えを「Forget as Lock（忘却＝作動中フラグ）」として採用しています。
-
-**「DETONOSIS におけるZOS/KIAの応用」**<br>
-
-ZOS = DETONATE（起動）する動作／作業／創造行為<br>
-例：シジルを書く、図像を組む、コードを書く、動作を始める手<br>
-KIA = OSIS（観察）する視線／反省／無意識的観察者<br>
-例：プロセスを俯瞰する意識、見る存在、再帰的なメタ自己<br>
-DETONOSIS = ZOSによる行為と、KIAによる観察が交差し、現実の再構成を起こす動作様式<br>
-
-<div align="left">
- <img src="zoskia.png" width="400">
-</div>
-※Ravensgateでの暫定的定義：
-Zos（ゾス）＝男性原理。行為、肉体、顕現、意志、手。
-Kia（キア）＝女性原理。受容、意識、空、潜在、眼。
-これはあくまで構造的理解のための便宜的定義であり、Spare本人の言明とは若干異なる。---
 
 ## 🐌 TUXとは？
 
