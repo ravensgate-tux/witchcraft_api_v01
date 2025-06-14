@@ -51,6 +51,7 @@ Image credit: Julian Vayne & Steve Dee, *Chaos Craft* (2018). Used here for educ
 | Encryption / Decryption| シジルの作成と解読、神殿の象徴構造                               |
 | On-Premises / Cloud    | 物理神殿／アストラル神殿                                          |
 | Log / Monitoring       | 影の書（book of shadows）、儀式記録、夢日記、ワークブック         |
+| オブジェクト / インスタンス       | オリジナルの地霊／そこから発生したタルパやサーヴィター（継承）   |
 | Password               | 神殿に設定するパスワード（これが一致しないと使えない）           |
 
 ## 🗝️ 神殿の公開とパスワード
